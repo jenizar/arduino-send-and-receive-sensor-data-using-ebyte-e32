@@ -3,7 +3,7 @@ Arduino Send and Receive Sensor Data using EByte E32 900T20D
 
 materials:
 
-arduino nano, ebyte e32 900T20D, antena 5dbi RP-SMA Connector GSM 915 MHz, DHT11, ldr module sensor, breadboard, jumper cable.
+arduino nano, ebyte e32 900T20D, antena 5dbi RP-SMA Connector GSM 915 MHz, DHT11, ldr module sensor, lcd i2c 20x4, breadboard, jumper cable.
 
 ![alt text](https://github.com/jenizar/arduino-send-and-receive-sensor-data-using-ebyte-e32/blob/main/screenshot/image1.jpg)
 
